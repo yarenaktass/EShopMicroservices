@@ -1,3 +1,3 @@
 # EShopMicroservices
 
-# Asp.Net core # MS SQL # RabbitMQ   # Docker # Entityframework
+# Asp.Net core, MS SQL,PostgreSql RabbitMQ, Docker, Entityframework, MediatR, CQRS
